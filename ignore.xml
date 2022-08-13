@@ -11,7 +11,7 @@
       <language id="ESLint" NEW_FILE="true" ENABLE="false" />
       <language id="Floobits" NEW_FILE="true" ENABLE="false" />
       <language id="Fossil" NEW_FILE="true" ENABLE="true" />
-      <language id="Git" NEW_FILE="true" ENABLE="false" />
+      <language id="Git" NEW_FILE="true" ENABLE="true" />
       <language id="Google Cloud" NEW_FILE="true" ENABLE="false" />
       <language id="Kubernetes Helm" NEW_FILE="true" ENABLE="false" />
       <language id="Jetpack" NEW_FILE="true" ENABLE="false" />
