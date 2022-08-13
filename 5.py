@@ -2,6 +2,7 @@ is_true = False
 a = 2
 b = 2.5
 strOne = "One"
+
 strThree = "Three"
 
 print(type(a == b))
